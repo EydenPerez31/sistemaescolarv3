@@ -1,0 +1,17 @@
+{
+    "name": "eyden/sistemaescv3",
+    "description": "sistema escolar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "eydenperez31",
+            "email": "eytronx444@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.13",
+        "illuminate/events": "^8.13",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
